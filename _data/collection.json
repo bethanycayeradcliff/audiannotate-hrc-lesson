@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "AudiAnnotate + HRC Lesson" ] },
+    "summary": { "en": [ "This project uses audio from the Harry Ransom Center as part of an educational use case for AudiAnnotate." ] },
+    "items": [
+    ]
+}
