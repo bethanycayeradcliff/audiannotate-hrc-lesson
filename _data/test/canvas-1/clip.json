@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/test/canvas-1/canvas/clip.json",
+  "type": "AnnotationPage",
+  "label": "clip",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/test/canvas-1/canvas/clip-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "clip starting point",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14:07,0:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/test/canvas-1/canvas/clip-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "clip ending point",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/test/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15:37,0:00"
+        }
+      }
+    }
+  ]
+}
