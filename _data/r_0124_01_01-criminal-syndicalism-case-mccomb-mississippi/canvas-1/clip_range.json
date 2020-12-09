@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/clip_range.json",
+  "type": "AnnotationPage",
+  "label": "clip_range",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/clip_range-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "clip starting point",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14:07,15:37"
+        }
+      }
+    }
+  ]
+}
