@@ -30,6 +30,12 @@
             "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/clip.json",
             "label": "clip"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations.json",
+            "label": "class_annotations"
+          }
         ],
         "items": [
           {
