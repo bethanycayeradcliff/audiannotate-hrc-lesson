@@ -1,0 +1,155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations.json",
+  "type": "AnnotationPage",
+  "label": "class_annotations",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beecher asks about recreation activities",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "849"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The quality doesn't seem great.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "849"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sometimes it's hard to understand accents.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "849"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Incarcertaion",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "849"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Race relations",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "849"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laughter and everyone chiming in about food. Voices of men and women",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "877"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas/class_annotations-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"How about the food they gave you there?\" (laughter)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/audiannotate-hrc-lesson/r_0124_01_01-criminal-syndicalism-case-mccomb-mississippi/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "877"
+        }
+      }
+    }
+  ]
+}
